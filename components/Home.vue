@@ -7,7 +7,7 @@
         >
           <img
             class="w-full h-full object-cover"
-            :src="require(`~/static/images/avatar.jpg`)"
+            src="/static/images/avatar.jpg"
           />
         </div>
         <div class="flex-1">

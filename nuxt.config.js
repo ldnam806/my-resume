@@ -1,5 +1,6 @@
 export default {
   target: 'static',
+  router: {},
   head: {
     title: 'Resume N4m',
     htmlAttrs: {
