@@ -1,6 +1,8 @@
 export default {
   target: 'static',
-  router: {},
+  router: {
+    base: '/my-resume/',
+  },
   head: {
     title: 'Resume N4m',
     htmlAttrs: {
