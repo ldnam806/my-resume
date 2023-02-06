@@ -1,10 +1,10 @@
 export default {
   target: 'static',
   router: {
-    base: '/my-resume/',
+    base: '/ldnam806/my-resume/',
   },
   head: {
-    title: 'Resume N4m',
+    title: 'Resume N4m1',
     htmlAttrs: {
       lang: 'en',
     },
