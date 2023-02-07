@@ -4,7 +4,7 @@ export default {
     base: '/ldnam806/my-resume/',
   },
   head: {
-    title: 'Resume N4m1',
+    title: 'Aka N4msama',
     htmlAttrs: {
       lang: 'en',
     },
@@ -15,7 +15,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/static/heart.png' },
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
       {
         rel: 'preconnect',
