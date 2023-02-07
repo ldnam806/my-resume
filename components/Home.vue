@@ -7,7 +7,7 @@
         >
           <img
             class="w-full h-full object-cover"
-            src="~/static/img/avatar.jpg"
+            src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/326894721_1160364211332904_6045478198154190444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=zTOiWPoUS7AAX8BtnBp&_nc_ht=scontent.fhan2-3.fna&oh=00_AfCAyfgJ_haPCzAWuFYAuLLx_C2_vnxU3KOTVU3zNSNthw&oe=63E66D51"
           />
         </div>
         <div class="flex-1">
