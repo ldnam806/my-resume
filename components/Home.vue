@@ -1,5 +1,5 @@
 <template>
-  <div class="page-wrapper">
+  <div class="page-wrapper px-4 mx-auto">
     <div class="container mx-auto px-4 md:px-0">
       <div class="w-full md:w-[500px] mx-auto flex items-end gap-4 my-[20px]">
         <div
@@ -7,7 +7,7 @@
         >
           <img
             class="w-full h-full object-cover"
-            src="/static/images/avatar.jpg"
+            :src="`${require(`~/assets/images/avatar.jpg`)}`"
           />
         </div>
         <div class="flex-1">
