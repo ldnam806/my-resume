@@ -7,7 +7,7 @@
         >
           <img
             class="w-full h-full object-cover"
-            src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/326894721_1160364211332904_6045478198154190444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=zTOiWPoUS7AAX8BtnBp&_nc_ht=scontent.fhan2-3.fna&oh=00_AfCAyfgJ_haPCzAWuFYAuLLx_C2_vnxU3KOTVU3zNSNthw&oe=63E66D51"
+            src="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/329977377_523999816487434_6965013042084891511_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=716SoMD7Un8AX9tjMmQ&_nc_oc=AQmH5tGsC_Giehral3mLBd6ni4wT-unN2QbIXpTfO4Qv-31VEdCgIVqoxAEdDZUriyI&tn=xxBvorI5vhCbnqU7&_nc_ht=scontent.fhan2-4.fna&oh=00_AfC_haUOujHx-bn-s_Isp6Fo6AluiAnXYrV_c0UqKTj9VA&oe=63EB727E"
           />
         </div>
         <div class="flex-1">
